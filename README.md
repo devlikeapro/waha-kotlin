@@ -1,2 +1,2 @@
 # waha-kotlin
-WhatsApp HTTP API using Kotlin
+WhatsApp HTTP API using Kotlin (ktor)
